@@ -1,0 +1,124 @@
+/*Raza Khan (1933191) 2021/02/19 // Created css sheet,tried playing around with logos to get an idea of website */
+/*Raza Khan (1933191) 2021/02/20 // Finished navigation menu and writing about what the website is about also put in logo */
+/*Raza Khan (1933191) 2021/02/22 // css for most sold car put into place */
+
+
+/*background colour for entire website page*/
+.websitebackground
+{
+    background-color:red;
+   
+    
+  
+}
+
+/*image of dealer in middle of page*/
+.dealerImage
+{
+  
+}
+
+/*website logo on navigation menu*/
+.guruimage
+{
+   width:20px;
+    
+}
+   
+/*  hover effect on navigation menu writing*/
+.nav a:hover
+{
+    background-color:red;
+}
+
+
+/*navigation menu writing*/
+.nav
+{
+   background-color: black;
+   padding-left: 700px;
+   color:white;
+   word-spacing: 80px;
+   background-color: lightblue;
+   color: black;
+   
+}
+
+.adTitle
+{
+   font-size: 50px;
+   font-weight: bold;
+   text-decoration: underline;
+   padding-left:200px;
+}
+
+.img-size
+{
+    width:1000px;
+    height:600px;
+    padding-left:225px;
+}
+
+
+/* color for background of navigation*/
+.navigationsection
+{
+    background-color: black;
+}
+
+/*name of company */
+.logowriting
+{
+      font-size: 50px;
+    color:white;
+    padding-left: 700px;
+   
+}
+
+/*motto of company under company name*/
+.navimotto
+{
+    font-size: 25px;
+    color: white;
+    padding-left: 780px;
+}
+
+
+/*both title and explanation css*/
+.whoWeAre
+{
+   
+    color:white;
+  
+    bottom: 200px;
+    left: 100px;
+    position:absolute;
+    
+    
+}
+
+/*the title of who we are*/
+.titleOfHomepage
+{
+    font-size: 40px;
+    color:black;
+    font-weight: bold;
+    text-decoration: underline;
+     padding-left: 200px;
+}
+
+/*explanation of who we are*/
+.explanationOfHomepage
+{
+   
+    font-size: 25px;
+    background-color: blue
+}
+
+.mustang
+{
+    border: 5px solid black;
+    height:800px;
+    width:1200px;
+    
+}
